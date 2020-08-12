@@ -22,7 +22,7 @@ body
 }
 .navigation
 {
-	background:#008b8b;
+	background:#f4f4f4;
 	width:144vw;
 }
 
@@ -33,7 +33,7 @@ body
 .list-nav-home a
 {
 	text-decoration:none;
-	color:#fff;
+	color:#000;
 	font-size:35px;
 }
 .table-data
@@ -64,7 +64,7 @@ body
 	margin:0;
 	padding:80px 0;
 	background:#f4f4f4;
-	color:#008080;
+	color:orange;
 	font-size:2.9em;	
 }
 .top-page-n h1:hover 
@@ -120,46 +120,3 @@ aside h1 {
 
 }
 
-.footer .one a 
-{
-	text-decoration:none;
-	color:#fff;
-	font-weight:300;
-	font-size:27px;
-}
-.footer a:hover
-{
-	text-decoration:underline;
-	color:orange;
-}
-.footer .max 
-{
-	display:block;
-	
-}
-.max a 
-{
-	text-decoration:none;
-	color:#fff;
-	font-weight:300;
-	font-size:27px;
-}
-.footer-float-left
-{
-	text-align:left;
-}
-.footer-float-right 
-{
-	text-align:right;
-}
-
-.in-footer-control
-{
-	display:flex;
-	justify-content:space-between;
-	padding:0 20px;
-}
-.c-c-c .one 
-{
-	display:block;
-}
